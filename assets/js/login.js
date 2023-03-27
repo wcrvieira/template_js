@@ -25,7 +25,7 @@ function verificar() {
         case "CGomes151":
             location.href = 'exec/lista1.html';
             break;
-        case "CEvangelista":
+        case "CEvangelista151":
             location.href = 'exec/lista1.html';
             break;
         case "CPuliani151":
