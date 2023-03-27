@@ -7,7 +7,7 @@ function verificar() {
         case "AOliveira151":
             location.href = 'exec/lista1.html';
             break;
-        case "AMaximo151":
+        case "AMaximino151":
             location.href = 'exec/lista2.html';
             break;
         case "AAguiar151":
@@ -23,6 +23,9 @@ function verificar() {
             location.href = 'exec/lista3.html';
             break;  
         case "CGomes151":
+            location.href = 'exec/lista1.html';
+            break;
+        case "CEvangelista":
             location.href = 'exec/lista1.html';
             break;
         case "CPuliani151":
